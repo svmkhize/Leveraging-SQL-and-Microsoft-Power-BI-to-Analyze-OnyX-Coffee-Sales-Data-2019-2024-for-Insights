@@ -1,9 +1,6 @@
 # OnyX Coffee 2019 to 2022 Sales Analysis
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
 
-![OnyX_Excel_Banner](https://github.com/user-attachments/assets/4c1f3e86-7336-448e-95f0-56b0e2613fca)
-
-
 ## Table of Contents
 ---
 - [Project Background and Overview](#project-background-and-overview)
@@ -14,6 +11,8 @@ For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfol
     - [Product Performance](#product-performance) 
     - [Loyalty Program Performance](#loyalty-program-performance) 
 - [Recommendations](#recommendations)
+
+![OnyX Banner for github](https://github.com/user-attachments/assets/a8d62edd-9df9-489f-9b51-65e86685041f)
 
 ## Project Background and Overview
 ---
