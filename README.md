@@ -1,4 +1,5 @@
-# OnyX Coffee Sales Data from 2019 to 2024 Analysis with SQL for Business Insights
+# Leveraging SQL and Microsoft Power BI to Analyze OnyX Coffee Sales Data (2019-2024) for Business Insights.
+
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
 
 ## Table of Contents
