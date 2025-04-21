@@ -50,7 +50,7 @@ The Dataset was exported from OnyX Coffee MySQL Database as an Excel Sheet which
 
 This was inspired by [Kaggle Website Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset).
 
-![Onyx Coffee ERD](https://github.com/user-attachments/assets/9f5775fb-999f-4bc4-9a12-7410cdebfc4e)
+![ERD_SQL_2_PowerBI](https://github.com/user-attachments/assets/400ffaa2-a301-4a02-86db-9816eb6f51c2)
 
 
 ## Executive Summary
