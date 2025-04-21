@@ -10,7 +10,8 @@ For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfol
 - [Insights Deep-Dive](#insights-deep-dive) 
 - [Observation and Recommendation](#observation-and-recommendation)
 
-![OnyX_SQL_Banner](https://github.com/user-attachments/assets/494ad9e1-8f05-457f-b794-6b0bd730c1e5)
+
+![SQL_2_PowerBI_Banner](https://github.com/user-attachments/assets/af868e38-b6d0-4f89-849d-316644ffad23)
 
 
 ## Project Background and Overview
